@@ -4,7 +4,7 @@ It's the repository of things that I learned...
 ## Python branch
 What I've learned in python
 
-### ascii.py
+### [Lil-tool] ascii.py
 
 一个可以把图片转换成简单字符画的小工具，转自实验楼
 
@@ -22,6 +22,15 @@ What I've learned in python
 [Problem_1 TwoSum](https://github.com/DavidNeko/Learning/blob/Python/LeetCodePractice/p_001_TwoSum.py)
 
 [Problem_17 Letter Combinations of a Phone Number](https://github.com/DavidNeko/Learning/blob/Python/LeetCodePractice/p_017_Letter_Combinations_of_a_Phone_Number.py)
+
+
+### [Mini-Program] Hanabi
+
+Python 模拟烟花的小程序
+* under folder /Hanabi run with `python hanabi.py`
+* 可以在hanabi.py中更改图片地址，用自己喜欢的图片做背景
+
+![Hanabi_showcase](https://i.makeagif.com/media/9-14-2018/rgKbNS.gif)
 
 
 

@@ -5,6 +5,7 @@ It's the repository of things that I learned...
 What I've learned in python
 
 ###ascii.py
+
 一个可以把图片转换成简单字符画的小工具，转自实验楼
 
 -使用方法
@@ -13,6 +14,7 @@ What I've learned in python
 * 处理 `python3 ascii.py example.png`
 
 ###LeetCode Practice
+
 对LeetCode算法题的练习
 * `main.py`中包含了对每题的测试
 * 题目内容作为注释写在了py文件里

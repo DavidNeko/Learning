@@ -33,5 +33,3 @@ Python 模拟烟花的小程序
 ![Hanabi_showcase](https://i.makeagif.com/media/9-14-2018/rgKbNS.gif)
 
 
-
-

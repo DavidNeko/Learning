@@ -24,5 +24,3 @@ What I've learned in python
 [Problem_17 Letter Combinations of a Phone Number](https://github.com/DavidNeko/Learning/blob/Python/LeetCodePractice/p_017_Letter_Combinations_of_a_Phone_Number.py)
 
 
-
-

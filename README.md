@@ -32,4 +32,20 @@ Python 模拟烟花的小程序
 
 ![Hanabi_showcase](https://i.makeagif.com/media/9-14-2018/rgKbNS.gif)
 
+## Golang branch
+What I've learned in Golang
+
+### Udemy course: 
+[Go the complete developer's guide](https://www.udemy.com/go-the-complete-developers-guide/)
+
+#### Current learning status (45/82)
+#### Sections:
+	- [x] Section 1: Getting Started
+	- [x] Section 2: A Simple Start
+	- [x] Section 3: Deeper into Go
+	- [ ] Section 4: Organizing Data with Structures
+	- [ ] Section 5: Maps
+	- [ ] Section 6: Interfaces
+	- [ ] Section 7: Channels and Go Routines
+
 

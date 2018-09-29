@@ -36,6 +36,9 @@ Python 模拟烟花的小程序
 
 #### Selenium
 
+**注：Selenium其实主要的应用不是scraper，而是Webapp的自动化测试
+**
+
 * `practice_one.py` **对Selenium基础的了解与练习**
 	
 	* 创建WebDriver实例，以及其应用

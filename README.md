@@ -32,6 +32,33 @@ Python 模拟烟花的小程序
 
 ![Hanabi_showcase](https://i.makeagif.com/media/9-14-2018/rgKbNS.gif)
 
+### Webscraper learning
+
+#### Selenium
+
+* `practice_one.py` **对Selenium基础的了解与练习**
+	
+	* 创建WebDriver实例，以及其应用
+	
+	* 使用 Selenium 在google.com输入查询内容并对其进行查询
+	
+	* 对查询的内容进行处理（这里只用了print）
+	
+	* 使用 Selenium 在google.com上点击相应按钮（此处点击了下一页）
+	
+	* 如何查找、使用选定网页元素的XPATH
+	
+	
+* `practice_two.py` **使用Selenium在淘宝抓取选定商品信息**
+
+	* 如何使用`CSS_SELECTOR`选定指定元素
+	
+	* 如何获得商品信息，并将其保存为字典格式
+	
+	* TODO：将保存到本地的商品信息进行decode并转成可供人阅读的模式
+
+
+
 ## Golang branch
 What I've learned in Golang
 

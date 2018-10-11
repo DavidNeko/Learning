@@ -76,7 +76,7 @@ Python 模拟烟花的小程序
 	
 		*练习遇到的问题：需要使用cookie保持登陆状态*
 		
-	*	具体操作步骤以及实现方法，移步`taobao`文件夹下的笔记
+	*	具体操作步骤以及实现方法，移步`taobao`文件夹下的[笔记](https://github.com/DavidNeko/Learning/blob/Python/WebScraper/Scrapy_practice/taobao/README.md)
 
 
 

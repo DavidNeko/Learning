@@ -72,7 +72,7 @@ ITEM_PIPELINES = {
 * 抓取淘宝信息其实有很多可用接口，这里使用的是
 `https://s.taobao.com/search?q=PS4&sort=sale-desc&s=44`
 
-###分析接口
+### 分析接口
 
 * q --> 搜索关键字 ：这里使用PS4
 	
@@ -80,7 +80,7 @@ ITEM_PIPELINES = {
 	
 * s --> 展示商品个数 ： 这里使用44
 
-###分析好接口，将爬虫需要的常量都写在`setting.py`中
+### 分析好接口，将爬虫需要的常量都写在`setting.py`中
 ```
 KEY_WORDS = 'PS4'
 PAGE_NUM = 100
@@ -121,7 +121,7 @@ COUNT_PER_PAGE = 44
 ROBOTSTXT_OBEY = False
 ```
 
-###运行爬虫
+### 运行爬虫
 
 ```
 scrapy crawl mytaobao

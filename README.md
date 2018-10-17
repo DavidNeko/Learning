@@ -98,7 +98,7 @@ What I've learned in Golang
 ### Udemy course: 
 [Go the complete developer's guide](https://www.udemy.com/go-the-complete-developers-guide/)
 
-#### Current learning status (76/96)
+#### Current learning status (96/96)
 #### Section progress:
 - [x] Section 1: Getting Started
 - [x] Section 2: A Simple Start
@@ -106,6 +106,6 @@ What I've learned in Golang
 - [x] Section 4: Organizing Data with Structures
 - [x] Section 5: Maps
 - [x] Section 6: Interfaces
-- [ ] Section 7: Channels and Go Routines
+- [x] Section 7: Channels and Go Routines
 
 

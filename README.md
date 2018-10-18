@@ -109,3 +109,13 @@ What I've learned in Golang
 - [x] Section 7: Channels and Go Routines
 
 
+### LeetCode practice:
+
+在Golang基础上对LeetCode算法题的练习 
+
+[Problem_1 TwoSum](https://github.com/DavidNeko/Learning/blob/master/Golang/LeetCodePractice/p_001/algorithms/algorithms.go)
+
+[Problem_1 Benchmark](https://github.com/DavidNeko/Learning/blob/master/Golang/LeetCodePractice/p_001/speed_test.go)
+
+
+

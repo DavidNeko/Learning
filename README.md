@@ -108,6 +108,29 @@ What I've learned in Golang
 - [x] Section 6: Interfaces
 - [x] Section 7: Channels and Go Routines
 
+[Web Development w/ Google's Go(golang) Programming language](https://www.udemy.com/go-programming-language/)
+
+#### Current learning status (5/171)
+#### Section progress:
+- [x] Section 1: Getting Started
+- [] Section 2: Templates
+- [] Section 3: Creating your own server
+- [] Section 4: Understanding net/http package
+- [] Section 5: Understanding routing
+- [] Section 6: Serving files
+- [] Section 7: Deploying your site
+- [] Section 8: Creating state
+- [] Section 9: Creating sessions
+- [] Section 10: Amazon Web Services
+- [] Section 11: Relational Databases
+- [] Section 12: Scaling On AWS
+- [] Section 13: Photo Blog
+- [] Section 14: Web Dev Toolkit
+- [] Section 15: Go & Mongodb
+- [] Section 16: Docker
+- [] Section 17: PostgreSQL
+- [] Section 18: MongoDB
+
 
 ### LeetCode practice:
 

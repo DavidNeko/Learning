@@ -1,0 +1,59 @@
+Lecture_1 Why Go?
+    - Speed
+    - Efficiency
+
+
+Lecture_2 Prerequests
+    - CLI
+    - Github
+    - HTML/CSS
+    - Go programming
+
+Lecture_3
+
+    Resources:
+
+        - Notes:
+            https://goo.gl/K5GccY
+        - Code used in this course
+            https://github.com/GoesToEleven/golang-web-dev
+        - Forum
+            https://forum.golangbridge.org
+
+Lecture_4
+
+    Go programming language review
+    variables
+        short variable declaration operator
+        using the var keyword to declare a variable
+        scope
+    data structures
+        slice
+            xi := []int{2,4,7,9,42}
+        map
+            m := map[string]int{
+                "Todd" : 45,
+                "Job" : 42,
+            }
+        struct
+            type person struct {
+                fname string
+                lname string
+            }
+            p1 := person {
+                "Miss",
+                "Moneypenny",
+            }
+
+            
+            composite literal
+
+
+    functions
+        func (receiver) identifier(parameters) (returns) { <code> }
+        methods
+    composition
+        embedded types
+        interfaces
+        polymorphism
+        nice article

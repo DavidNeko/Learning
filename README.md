@@ -110,7 +110,7 @@ What I've learned in Golang
 
 [Web Development w/ Google's Go(golang) Programming language](https://www.udemy.com/go-programming-language/)
 
-#### Current learning status (5/171)
+#### Current learning status (8/171)
 #### Section progress:
 - [x] Section 1: Getting Started
 - [] Section 2: Templates

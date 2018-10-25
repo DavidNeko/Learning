@@ -142,5 +142,13 @@ What I've learned in Golang
 
 [Problem_1 Benchmark](https://github.com/DavidNeko/Learning/blob/master/Golang/LeetCodePractice/p_001/speed_test.go)
 
+***
+
+### Some good resources:
+
+* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
+	A golang ebook intro how to build a web with golang. 一个很实用，讲解十分详细的教程。共有11个语言的版本可选择，在[Go语言基础章节](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/02.0.md)对基础知识的铺垫十分有用。
+
 
 

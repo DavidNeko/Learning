@@ -270,3 +270,73 @@ These files provide you with examples of passing various data types to templates
 
 
 
+
+
+
+
+# Lecture 12&13:  Using functions in templates
+
+## [template function documentation](https://godoc.org/text/template#hdr-Functions)
+
+***
+
+## [template.FuncMap](type FuncMap map[string]interface{})
+
+FuncMap is the type of the map defining the mapping from names to functions. Each function must have either a single return value, or two return values of which the second has type error. In that case, if the second (error) return value evaluates to non-nil during execution, execution terminates and Execute returns that error.
+
+## [template.Funcs](https://godoc.org/text/template#Template.Funcs)
+``` Go
+func (t *Template) Funcs(funcMap FuncMap) *Template
+```
+
+***
+
+During execution functions are found in two function maps: 
+- first in the template, 
+- then in the global function map. 
+
+By default, no functions are defined in the template but the Funcs method can be used to add them.
+
+Predefined global functions are defined in text/template.
+
+
+
+***
+***
+
+
+
+
+
+# Lecture 14: Global Functions
+
+There are "predefined global functions" which you can use.
+
+[You can read about these functions here](https://godoc.org/text/template#hdr-Functions)
+
+The following code samples will demonstrate some of these "predefined global functions":
+
+- index
+
+- and
+
+- comparison
+ 
+ ***
+ 
+# Comments
+
+## [Template Comments](https://godoc.org/text/template#hdr-Actions)
+- A comment; discarded. May contain newlines. Comments do not nest and must start and end at the delimiters, as shown here.
+``` Go
+{{/* a comment */}}
+```
+
+
+
+***
+***
+
+
+
+

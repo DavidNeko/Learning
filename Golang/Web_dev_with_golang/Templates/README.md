@@ -340,7 +340,7 @@ The following code samples will demonstrate some of these "predefined global fun
 
 
 
-# Lecture 15:Nested templates
+# Lecture 15: Nested templates
 
 [nested templates documentation](https://godoc.org/text/template#hdr-Nested_template_definitions)
 
@@ -362,6 +362,28 @@ insert content here
 
 ***
 ***
+
+
+
+
+
+# Lecture 16: Passing data to templates
+
+These files provide you with more examples of passing data to templates.
+
+These files use the [composition](https://en.wikipedia.org/wiki/Composition_over_inheritance) design pattern. You should favor this design pattern. 
+
+Read more about [composition with Go here](https://www.goinggo.net/2015/09/composition-with-go.html).
+
+
+
+
+
+
+
+***
+***
+
 
 
 

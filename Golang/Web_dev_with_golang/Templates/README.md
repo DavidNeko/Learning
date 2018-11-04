@@ -440,3 +440,20 @@ A strict separation between content provided by unrelated sites must be maintain
 
 
 
+
+
+
+# Lecture 19: Understanding servers
+
+
+[Link to learning note for lecture 19](https://github.com/DavidNeko/Learning/tree/master/Golang/Web_dev_with_golang/Templates/Lecture19/README.md)
+
+
+
+***
+***
+
+
+
+
+

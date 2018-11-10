@@ -115,8 +115,8 @@ What I've learned in Golang
 #### Current learning status (16/171)
 #### Section progress:
 - [x] Section 1: Getting Started
-- [ ] Section 2: Templates
-- [ ] Section 3: Creating your own server
+- [ ] Section 2: [Templates](https://github.com/DavidNeko/Learning/blob/master/Golang/Web_dev_with_golang/Templates/README.md)
+- [ ] Section 3: [Creating your own server](https://github.com/DavidNeko/Learning/blob/master/Golang/Web_dev_with_golang/Servers/README.md)
 - [ ] Section 4: Understanding net/http package
 - [ ] Section 5: Understanding routing
 - [ ] Section 6: Serving files
